@@ -1,0 +1,14 @@
+{
+  "name": "aoc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.9",
+    "jest": "^27.3.1"
+  }
+}
